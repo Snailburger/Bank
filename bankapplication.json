@@ -1,0 +1,76 @@
+{
+ "1": {
+  "name": "Hans Muster",
+  "age": 22,
+  "AHV": "23.345.67",
+  "adress": "Winterthur",
+  "accounts": [
+   [
+    {
+     "number": "CH34 2345 3424 6524 6226 3",
+     "balance": 400,
+     "interest_rate": 2,
+     "currency": "CHF",
+     "age": 22,
+     "monthly_withdraw": 600
+    }
+   ]
+  ]
+ },
+ "2": {
+  "name": "Julius Caesar",
+  "age": 1250,
+  "AHV": "56.436.23",
+  "adress": "Rom",
+  "accounts": [
+   [
+    {
+     "number": "CH34 2345 3696 7841 4921 5",
+     "balance": 500,
+     "interest_rate": 0.1,
+     "currency": "CHF"
+    }
+   ]
+  ]
+ },
+ "3": {
+  "name": "Max M\u00fcller",
+  "age": 35,
+  "AHV": "123.3456.123",
+  "adress": "Winterthur",
+  "accounts": [
+   [
+    {
+     "number": "CH34 2345 3317 6791 1613 4",
+     "balance": 1200,
+     "interest_rate": 0.1,
+     "currency": "CHF"
+    }
+   ]
+  ]
+ },
+ "4": {
+  "name": "Erik Zimmer",
+  "age": 60,
+  "AHV": "438.2746.402",
+  "adress": "Z\u00fcrich",
+  "accounts": [
+   [
+    {
+     "number": "CH34 2345 3874 3447 7493 3",
+     "balance": 55340,
+     "interest_rate": 0.1,
+     "currency": "CHF"
+    }
+   ],
+   [
+    {
+     "number": "CH34 2345 3787 5968 3943 6",
+     "balance": -20400.0,
+     "interest_rate": 0.1,
+     "currency": "CHF"
+    }
+   ]
+  ]
+ }
+}

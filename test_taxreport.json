@@ -1,0 +1,69 @@
+{
+ "1": {
+  "name": "Hans Muster",
+  "age": 22,
+  "AHV": "23.345.67",
+  "adress": "Winterthur",
+  "accounts": [
+   [
+    {
+     "number": "CH34 2345 3395 9727 1755 6",
+     "balance": 3200,
+     "interest_rate": 2,
+     "currency": "EUR",
+     "age": 22,
+     "monthly_withdraw": 600
+    }
+   ],
+   [
+    {
+     "number": "CH34 2345 3871 1878 1276 4",
+     "balance": 2400,
+     "interest_rate": 2,
+     "currency": "CHF",
+     "age": 22
+    }
+   ]
+  ]
+ },
+ "2": {
+  "name": "Julius Caesar",
+  "age": 1250,
+  "AHV": "56.436.23",
+  "adress": "Rom",
+  "accounts": [
+   [
+    {
+     "number": "CH34 2345 3756 9521 4549 7",
+     "balance": 4000,
+     "interest_rate": 0.1,
+     "currency": "CHF"
+    }
+   ],
+   [
+    {
+     "number": "CH34 2345 3728 3847 4624 3",
+     "balance": 27000,
+     "interest_rate": 0.1,
+     "currency": "EUR"
+    }
+   ],
+   [
+    {
+     "number": "CH34 2345 3728 2739 1065 2",
+     "balance": 1300,
+     "interest_rate": 0.1,
+     "currency": "JPY"
+    }
+   ],
+   [
+    {
+     "number": "CH34 2345 3728 3847 4624 3",
+     "balance": 450,
+     "interest_rate": 0.1,
+     "currency": "SEK"
+    }
+   ]
+  ]
+ }
+}
